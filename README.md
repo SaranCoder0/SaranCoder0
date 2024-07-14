@@ -7,4 +7,4 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=100&pause=1000&color=35F70C&center=true&vCenter=true&random=false&width=435&lines=TRAIN+YOUR+BRAIN+TO+REMAIN+CALM+IN+ANY+SITUATION.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=25&pause=1000&color=35F70C&center=true&vCenter=true&random=false&width=435&lines=TRAIN+YOUR+BRAIN+TO+REMAIN+CALM+IN+ANY+SITUATION.)](https://git.io/typing-svg)
